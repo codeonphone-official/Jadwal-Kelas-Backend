@@ -17,9 +17,17 @@
 | No  | Hari    | Materi | 
 | --- | ------- | ------ |
 | 1   | Selasa  | Tipe Data |
-| 2   | Rabu    | Object |
-| 3   | Kamis   | Baris Logis dan Fisik |
-| 4   | Jum'at  | Indentasi |
-| 5   | Sabtu   | Operator |
-| 6   | Minggu  | Weekly Task |
+</details>
+
+<details markdown='1'><summary>Minggu 3</summary>
+
+| No  | Hari    | Materi | 
+| --- | ------- | ------ |
+| 1   | Senin    | Object |
+| 2   | Selasa   | Baris Logis dan Fisik |
+| 3   | Rabu  | Indentasi |
+| 4   | Kamis   | Operator |
+| 5   | Jum'at  | Urutan Evaluasi |
+| 6   | Sabtu  | Mengubah Urutan Evaluasi |
+| 7   | Minggu  | Weekly Task |
 </details>
