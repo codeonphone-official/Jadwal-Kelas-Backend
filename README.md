@@ -31,3 +31,15 @@
 | 6   | Sabtu  | Mengubah Urutan Evaluasi |
 | 7   | Minggu  | Weekly Task |
 </details>
+
+<details markdown='1'><summary>Minggu 4</summary>
+
+| No  | Hari    | Materi | 
+| --- | ------- | ------ |
+| 1   | Selasa   | Statemen If |
+| 2   | Rabu  | Statemen While |
+| 3   | Kamis   | Perulangan For (For Loop) |
+| 4   | Jum'at  | Statemen Break |
+| 5   | Sabtu  | Statemen Break |
+| 6   | Minggu  | Statemen Continue |
+</details>
