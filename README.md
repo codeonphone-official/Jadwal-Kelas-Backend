@@ -40,6 +40,6 @@
 | 2   | Rabu  | Statemen While |
 | 3   | Kamis   | Perulangan For (For Loop) |
 | 4   | Jum'at  | Statemen Break |
-| 5   | Sabtu  | Statemen Break |
+| 5   | Sabtu  | Statemen Continue |
 | 6   | Minggu  | Weekly Task |
 </details>
