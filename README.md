@@ -43,3 +43,16 @@
 | 5   | Sabtu  | Statemen Continue |
 | 6   | Minggu  | Weekly Task |
 </details>
+
+<details markdown='1'><summary>Minggu 5</summary>
+
+| No  | Hari    | Materi | 
+| --- | ------- | ------ |
+| 1  | Senin     | Parameter fungsi |
+| 2  | Selasa   | Variabel lokal |
+| 3  | Rabu      | Statemen Global |
+| 4  | Kamis    | Nilai argumen default |
+| 5  | Jum'at   | Keyword Argumen |
+| 6  | Sabtu     | Parameter VarArgs |
+| 7  | Minggu  | Weekly Task |
+</details>
